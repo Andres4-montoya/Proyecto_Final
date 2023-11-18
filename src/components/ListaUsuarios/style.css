@@ -1,0 +1,9 @@
+.lista-usuarios {
+    padding: 1rem;
+    display: flex;
+    width: 90%;
+    border: 4px solid black;
+    border-radius: 1rem;
+    justify-content: space-around;
+    background-color: rgb(85, 126, 240);
+}
